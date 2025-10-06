@@ -11,12 +11,21 @@ Date: 2025-10-06
 
 ## Code architecture
 Due to ethical and legal restrictions, some parts of the code were hidden to respect participants' data privacy. 
-*github_targets.R* : R script in which the pipeline of the analysis is defined, and the different targets are specified.
-*github_preparation_wide.R* : R script of data management for wide-format data frames (prefix: prep_). Some functions were hidden.
-*github_preparation_long.R* : R script of data management for long-format data frames (prefix: prep_). Some functions were hidden.
-*github_helpers.R* : R script of help functions used for the analysis (prefix: help_). Some functions were hidden.
-*github_stat_models.R* : R script of statiscal analyses functions, including DLNM encoding functions (prefix: mod_ and run_).
-*github_tables.R* : R script of functions to produced summary tables (prefix: make_tbl).
-*github_figures.R* : R script of functions to produced graphics (prefix: make_fig).
-*github_figure_dlm.R* : R script of functions to produced DLNM-related graphics (local use, outside the targets pipeline).
-*github_figure_S10.R* : R script of functions to produced supplementary figure 10 (local use, outside the targets pipeline).
+
+-  *github_targets.R* : R script in which the pipeline of the analysis is defined, and the different targets are specified.
+-  
+-  *github_preparation_wide.R* : R script of data management for wide-format data frames (prefix: prep_). Some functions were hidden.
+-  
+-  *github_preparation_long.R* : R script of data management for long-format data frames (prefix: prep_). Some functions were hidden.
+-  
+-  *github_helpers.R* : R script of help functions used for the analysis (prefix: help_). Some functions were hidden.
+-  
+-  *github_stat_models.R* : R script of statiscal analyses functions, including DLNM encoding functions (prefix: mod_ and run_).
+-  
+-  *github_tables.R* : R script of functions to produced summary tables (prefix: make_tbl).
+-  
+-  *github_figures.R* : R script of functions to produced graphics (prefix: make_fig).
+-  
+-  *github_figure_dlm.R* : R script of functions to produced DLNM-related graphics (local use, outside the targets pipeline).
+-  
+-  *github_figure_S10.R* : R script of functions to produced supplementary figure 10 (local use, outside the targets pipeline).

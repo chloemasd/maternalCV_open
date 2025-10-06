@@ -29,3 +29,6 @@ Due to ethical and legal restrictions, some parts of the code were hidden to res
 -  *github_figure_dlm.R* : R script of functions to produced DLNM-related graphics (local use, outside the targets pipeline).
   
 -  *github_figure_S10.R* : R script of functions to produced supplementary figure 10 (local use, outside the targets pipeline).
+
+## Contact
+For any questions or further information, please contact Chloé Masdoumier at chloe.masdoumier@univ-grenoble-alpes.fr.

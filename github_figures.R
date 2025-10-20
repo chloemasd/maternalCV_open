@@ -314,7 +314,7 @@ make_cor_expo <- function(data_in){
                   type="upper", 
                   tl.cex = 8,
                   legend.title = "Correlation",
-                  colors = c("firebrick2","cornsilk2","steelblue3"),
+                  colors = c("steelblue3","cornsilk2","firebrick2"),
                   ggtheme = ggplot2::theme_gray) +
     scale_x_discrete(labels = labs) +
     scale_y_discrete(labels = labs) + 
@@ -331,4 +331,5 @@ make_smooth <- function(data_in, exposure, outcome, df){
     geom_smooth(method = lm,
                 formula = y ~ splines::ns(x,df))
   return(p)
+
 }

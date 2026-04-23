@@ -122,8 +122,8 @@ model_nopreHTN <- compute_res(model_bp_nopreHTN_tt)
 
 ## Name results ----
 model_main$sens = rep("Main model",nrow(model_main))
-model_hr$sens = rep("Adjusted for HR",nrow(model_hr))
-model_hte$sens = rep("Adjusted for Hte",nrow(model_hte))
+model_hr$sens = rep("Adjusted for heart rate",nrow(model_hr))
+model_hte$sens = rep("Adjusted for hematocrit",nrow(model_hte))
 model_gdiab$sens = rep("Adjusted for gestational diabetes",nrow(model_gdiab))
 model_nott$sens = rep("Adjustment for time trend removed",nrow(model_nott))
 model_noHTN$sens = rep("Exclude women with hypertension during pregnancy",nrow(model_noHTN))

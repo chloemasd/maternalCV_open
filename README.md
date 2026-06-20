@@ -1,6 +1,6 @@
 # Impacts of ambient temperature on pregnant women's cardiovascular function and variations related to fetal sex.
 
-This is the code supporting the analyses.
+This is the code supporting the analyses presented in DOI: 10.1016/j.envres.2026.124742.
 
 Author: Chloé Masdoumier
 

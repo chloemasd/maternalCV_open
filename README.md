@@ -27,9 +27,9 @@ The code was produced using {targets} R package. For more details on the pipelin
   
 -  *github_figures.R* : R script of functions to produced graphics (prefix: make_fig).
 
--  *github_figure_dlm.R* : R script of functions to produced DLNM-related graphics (local use, outside the targets pipeline).
+-  *github_figure_dlm.R* : R script of functions to produced DLNM-related graphics (local use, outside the {targets} pipeline).
   
--  *github_figure_S10.R* : R script of functions to produced supplementary figure 10 (local use, outside the targets pipeline).
+-  *github_figure_S10.R* : R script of functions to produced supplementary figure 10 (local use, outside the {targets} pipeline).
 
 ## Contact
 For any questions or further information, please contact Chloé Masdoumier at chloe.masdoumier@univ-grenoble-alpes.fr.

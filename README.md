@@ -11,7 +11,7 @@ Date: 2025-10-06
 
 ## Code architecture
 Due to ethical and legal restrictions, some parts of the code were hidden to respect participants' data privacy. 
-The code was produce using {targets} R package. For more details on the pipeline see https://books.ropensci.org/targets/
+The code was produced using {targets} R package. For more details on the pipeline see https://books.ropensci.org/targets/
 
 -  *github_targets.R* : R script in which the pipeline of the analysis is defined, and the different targets are specified.
   

@@ -84,8 +84,8 @@ tar_option_set(
 # Research article
 
 # Title ----
-# Impacts of ambient temperature on maternal blood pressure and hematocrit levels
-# during pregnancy show fetal sex differences: insights from the EDEN French cohort
+# Impacts of ambient temperature on pregnant women's cardiovascular function
+# and variations related to fetal sex
 
 # Abstract ----
 
